@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab0db779-7ecc-470f-be95-e342698fd5f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/q1a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q1b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q1c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/q1e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/1_clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/q2a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/q2b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../GA2/q3.py" afterDir="false" />
+    <list default="true" id="975d4c6a-ca41-471a-9864-0b97b8df864d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../GA1/q1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA1/q1b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA1/q1c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GA1/q1e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q2a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q2b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/q3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GA3/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GA3/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../GA3/alvarez.py" afterDir="false" />
@@ -27,12 +27,12 @@
       <change afterPath="$PROJECT_DIR$/../HW7/gen_hw.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HW7/hopfield.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HW7/test_weights" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3cred_q5a.py" beforeDir="false" afterPath="$PROJECT_DIR$/3cred_q5a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GA1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/GA1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q1.png" beforeDir="false" afterPath="$PROJECT_DIR$/q1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/q1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$GA1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GA1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/3cred_q5a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GA1/3cred_q5a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/GA1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../GA1/GA1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/q1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../GA1/q1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/q1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GA1/~$GA1.xlsx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,86 +41,102 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-2134090124">
+    <session id="1964363707">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="png" value="1" />
-          <entry key="py" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="1" />
-          <entry key="Python" value="5" />
-          <entry key="Scratch" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="26" />
-          <entry key="py" value="12042" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="11778" />
-          <entry key="Scratch" value="264" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="11789" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="6" />
+          <entry key="py" value="11789" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="7" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1300">
+              <caret selection-end-line="459" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1541353816654" expanded="true" signature="78:2152" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q2a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="84" />
+              <folding>
+                <marker date="1545247453593" expanded="true" signature="47:52" ph="..." />
+                <marker date="1545247453593" expanded="true" signature="690:1051" ph="..." />
+                <marker date="1545247453593" expanded="true" signature="1062:1485" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/q2b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="151" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/q1c.py">
+        <entry file="file://$PROJECT_DIR$/q3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="201" />
+            <state relative-caret-position="-642">
+              <caret selection-end-line="155" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1545241449997" expanded="true" signature="115:426" ph="..." />
-                <marker date="1545241449997" expanded="true" signature="3212:3213" ph="..." />
-                <marker date="1545241449997" expanded="true" signature="3224:4043" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q1b.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="44" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-                <marker date="1545098655547" expanded="true" signature="80:83" ph="..." />
-                <marker date="1545098655547" expanded="true" signature="1181:1227" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/q1a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -141,25 +157,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-        <option value="$PROJECT_DIR$/4cred_q1.py" />
-        <option value="$PROJECT_DIR$/3cred_q5a.py" />
-        <option value="$PROJECT_DIR$/p_responses.py" />
-        <option value="$PROJECT_DIR$/get_responses.py" />
-        <option value="$PROJECT_DIR$/helper_tools.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/1_clean.py" />
+        <option value="$PROJECT_DIR$/1_new.py" />
         <option value="$PROJECT_DIR$/q1.py" />
-        <option value="$PROJECT_DIR$/q1c.py" />
-        <option value="$PROJECT_DIR$/q1a.py" />
-        <option value="$PROJECT_DIR$/q1b.py" />
-        <option value="$PROJECT_DIR$/q1e.py" />
+        <option value="$PROJECT_DIR$/q2.py" />
+        <option value="$PROJECT_DIR$/q2a.py" />
+        <option value="$PROJECT_DIR$/q2b.py" />
+        <option value="$PROJECT_DIR$/q3.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="236" />
+    <option name="x" value="87" />
     <option name="y" value="23" />
-    <option name="width" value="1083" />
-    <option name="height" value="740" />
+    <option name="width" value="1171" />
+    <option name="height" value="761" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,8 +184,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="GA1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GA1" type="462c0819:PsiDirectoryNode" />
+              <item name="GA2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GA2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,10 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/joshpopp/Downloads/Comp-Neuro/GA1/3cred_q5a.py" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,20 +209,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.q1e">
-    <configuration name="GA1" type="PythonConfigurationType" factoryName="Python">
-      <module name="GA1" />
+  <component name="RunManager" selected="Python.q3">
+    <configuration name="1_clean" type="PythonConfigurationType" factoryName="Python">
+      <module name="GA2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1c.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_clean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,8 +231,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q1a" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GA1" />
+    <configuration name="q1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GA2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -233,7 +243,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,8 +252,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q1b" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GA1" />
+    <configuration name="q2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GA2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,7 +264,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1b.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,8 +273,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="q1e" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="GA1" />
+    <configuration name="q2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GA2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -275,7 +285,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q1e.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="q3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GA2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/q3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,16 +316,18 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.GA1" />
-      <item itemvalue="Python.q1a" />
-      <item itemvalue="Python.q1b" />
-      <item itemvalue="Python.q1e" />
+      <item itemvalue="Python.1_clean" />
+      <item itemvalue="Python.q1" />
+      <item itemvalue="Python.q2" />
+      <item itemvalue="Python.q2b" />
+      <item itemvalue="Python.q3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.q1e" />
-        <item itemvalue="Python.q1b" />
-        <item itemvalue="Python.q1a" />
+        <item itemvalue="Python.q3" />
+        <item itemvalue="Python.q2b" />
+        <item itemvalue="Python.q2" />
+        <item itemvalue="Python.q1" />
       </list>
     </recent_temporary>
   </component>
@@ -303,25 +336,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab0db779-7ecc-470f-be95-e342698fd5f0" name="Default Changelist" comment="" />
-      <created>1538401268924</created>
+      <changelist id="975d4c6a-ca41-471a-9864-0b97b8df864d" name="Default Changelist" comment="" />
+      <created>1540315163707</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538401268924</updated>
+      <updated>1540315163707</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="236" y="23" width="1083" height="740" extended-state="0" />
+    <frame x="87" y="23" width="1171" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20461094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29672277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33487654" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39969134" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33781764" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -340,58 +373,73 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
-    <entry file="file://$PROJECT_DIR$/3cred_q5a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../HW4/1c.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/q3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/q1b.py">
+    <entry file="file://$PROJECT_DIR$/1_clean.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="44" />
+        <state relative-caret-position="5115">
+          <caret line="394" column="4" selection-start-line="394" selection-start-column="4" selection-end-line="394" selection-end-column="4" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <marker date="1545098655547" expanded="true" signature="80:83" ph="..." />
-            <marker date="1545098655547" expanded="true" signature="1181:1227" ph="..." />
+            <marker date="1541368599506" expanded="true" signature="3418:3559" ph="..." />
+            <marker date="1541368599506" expanded="false" signature="4354:6116" ph="..." />
+            <marker date="1541368599506" expanded="true" signature="6509:6557" ph="..." />
+            <marker date="1541368599506" expanded="true" signature="6626:7619" ph="..." />
+            <marker date="1541368599506" expanded="true" signature="9908:10893" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1a.py">
+    <entry file="file://$PROJECT_DIR$/q2a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="125" column="14" lean-forward="true" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
+        <state>
+          <caret selection-end-line="84" />
+          <folding>
+            <marker date="1545247453593" expanded="true" signature="47:52" ph="..." />
+            <marker date="1545247453593" expanded="true" signature="690:1051" ph="..." />
+            <marker date="1545247453593" expanded="true" signature="1062:1485" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret selection-end-line="459" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1541353816654" expanded="true" signature="78:2152" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/q1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1e.py">
+    <entry file="file://$PROJECT_DIR$/q2b.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="213" />
+          <caret selection-end-line="151" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/q1c.py">
+    <entry file="file://$PROJECT_DIR$/q3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="201" />
+        <state relative-caret-position="-642">
+          <caret selection-end-line="155" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1545241449997" expanded="true" signature="115:426" ph="..." />
-            <marker date="1545241449997" expanded="true" signature="3212:3213" ph="..." />
-            <marker date="1545241449997" expanded="true" signature="3224:4043" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>

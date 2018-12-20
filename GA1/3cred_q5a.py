@@ -32,7 +32,7 @@ def lif_neuron_spikes(voltage):
 
 
 if __name__ == "__main__":
-	# Get time frame
+	# Get timeframe
 	time = input("Enter length of time in seconds: \n")
 	if time == '':
 		time = numpy.linspace(float(0),float(500),num=500,endpoint=False)
